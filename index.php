@@ -1,6 +1,6 @@
 <?php
 
-include_once("w1/index.html");
+include_once("w1/portfolio/index.html");
 
 ?>
 
