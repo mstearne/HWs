@@ -171,5 +171,16 @@ aside {
 
 .portfolioItem img {
 	width: 275px;
-	height: 200px;
+	height: 100px;
 }
+
+.portfolioItem span {
+	position: relative;
+	top: 20px;
+	background-color: teal;
+	color: white;
+	display: inline-block;
+
+}
+
+
